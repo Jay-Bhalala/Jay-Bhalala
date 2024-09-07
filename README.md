@@ -12,25 +12,6 @@
 
 - ⚡ Fun fact: **I have a black belt in Taekwondo**
 
-## Tasks
-
-- [x] Born
-- [x] Create a non-profit
-- [x] Take my FTC robotics team to state
-- [x] Win a hackerthon
-- [x] Graduate from high school
-- [x] Get an internship
-- [ ] Graduate from college
-- [ ] Get a job
-- [ ] Marry
-- [ ] Have children
-- [ ] Die
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://linkedin.com/in/bhalala-jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-bhalala" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
